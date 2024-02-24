@@ -37,7 +37,7 @@ This Streamlit app empowers you to analyze and model your data directly within a
 
 2. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[your-username]/[project-name].git
+   git clone https://github.com/isurulkh/Data-Visualization-and-Model-Training-Web-App-with-Streamlit.git)
 
 3.**Create a virtual environment:**
 
